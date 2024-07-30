@@ -16,6 +16,7 @@ This repository contains a Power BI sales dashboard and related analysis. The da
    ![image](https://github.com/user-attachments/assets/2e1f0f44-cc58-495f-829c-be933573c49e)
  
 **Summary:**
+
 The United States leads in sales with $25.03M.
 
 Paseo is the top-selling product with 30% of total units sold.
