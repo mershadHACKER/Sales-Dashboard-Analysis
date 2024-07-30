@@ -15,3 +15,8 @@ This repository contains a Power BI sales dashboard and related analysis. The da
 3) Our highest selling country is Canada, where we get the most profit from paseo selling at a low discount.
    ![image](https://github.com/user-attachments/assets/2e1f0f44-cc58-495f-829c-be933573c49e)
  
+**Summary:**
+The United States leads in sales with $25.03M.
+Paseo is the top-selling product with 30% of total units sold.
+Sales have a decreasing trend from October to May.
+Canada and France have the highest units sold, with medium discounts being the most common across countries.
